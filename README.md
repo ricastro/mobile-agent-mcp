@@ -87,3 +87,11 @@ Selectors
 ## Roadmap
 - Android support via Appium UIAutomator2
 - Richer Flutter inspector actions (node selection, diagnostics, layout bounds)
+
+## Support
+
+If this project helps your mobile automation workflows, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ricastro)
+
+Your support helps maintain and improve this project for the community.
