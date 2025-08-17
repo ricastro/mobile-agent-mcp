@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+npm-debug.log*
+package-lock.json
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Screenshots and artifacts
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
